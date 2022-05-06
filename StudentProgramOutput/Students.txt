@@ -1,0 +1,7 @@
+      Z23120471;Mark;Hilpert;120 SUBURBAN AVENUE;Boca Raton;FL;33431;5619815345;mhilpert@my.fau.edu;10;8/2020
+      Z23120544;Claudine;Vollmer;8250 E LAKEVIEW DR;Deerfield Beach;FL;34035;9545689324;cvollmer@my.fau.edu;20;5/2021
+      Z23120612;Barbara;McDaniel;2610 SHADY LAWN DR;Ft. Lauderdale;FL;34289;9546424775;bmcdaniel@my.fau.edu;30;8/2022
+      Z23120701;Kathy;Krall;19903 225TH ST;Boynton Beach;FL;34229;5616331039;kkrall@my.fau.edu;40;12/2022
+      Z23120755;Holly;Simmel;601 DOWNPATRICK LN;Coral Spring;FL;33340;9543879377;hsimmel@my.fau.edu;50;6/2023
+      Z23120828;Ginny;Veil;8115-L DUNMORE DR;Oakland Park;FL;33101;9547710335;gveil@my.fau.edu;60;12/2021
+      Z23120904;Annette;Lunsford;2290 CRAWFORD DAIRY RD;Deerfield Beach;FL;34035;9548975235;alunsford@my.fau.edu;70;1/2020

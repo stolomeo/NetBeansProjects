@@ -1,0 +1,12 @@
+Austin:Jacobs:9/29:5000:6000
+Luis:Guitierrez:11/1:5000:4500
+Mi:Nguyen:4/4:6000:6000
+Sabrina:Castro:4/30:4500:6000
+Rayan:Maharaj:9/29:5000:5500
+
+
+
+
+
+
+
